@@ -1,0 +1,8 @@
+Campaign_ID,Campaign_Name,Objective,Budget
+C001,google_cpc_brand,Conversions,5000
+C002,google_cpc_nonbrand,Traffic,7000
+C003,facebook_retarget,Conversions,4000
+C004,facebook_awareness,Awareness,3000
+C005,email_newsletter,Engagement,1000
+C006,organic,Traffic,0
+C007,direct,Traffic,0

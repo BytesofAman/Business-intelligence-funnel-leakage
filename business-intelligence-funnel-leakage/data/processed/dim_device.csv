@@ -1,0 +1,19 @@
+Device_ID,Device_Type,OS,Browser
+1,mobile,iOS,Safari
+2,desktop,Windows,Firefox
+3,desktop,Macintosh,Chrome
+4,mobile,iOS,Chrome
+5,desktop,Chrome OS,Chrome
+6,mobile,Android,Chrome
+7,mobile,Android,Firefox
+8,desktop,Linux,Chrome
+9,desktop,Windows,Edge
+10,desktop,Windows,Chrome
+11,tablet,Android,Samsung Internet
+12,tablet,iOS,Chrome
+13,tablet,iOS,Safari
+14,mobile,Android,Samsung Internet
+15,desktop,Macintosh,Safari
+16,tablet,Android,Firefox
+17,tablet,Android,Chrome
+18,desktop,Linux,Firefox

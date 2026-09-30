@@ -1,0 +1,44 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Data - raw source files
+data/raw/
+
+# Generated validation output
+data/validation/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated presentation image assets
+extracted_img_*.png
+p2_img_*.png
+rendered_page*.png
+rendered_page_*.png
+footer_band_reference.png
+page2_header_logo.png
+
+# Duplicate presentation image files
+Im5.jpg
+Im8.jpg
+Im10.jpg
+gh_raisoni_logo.png
+rais​oni_education_logo.png

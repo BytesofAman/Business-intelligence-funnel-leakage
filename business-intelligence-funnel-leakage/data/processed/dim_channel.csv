@@ -1,0 +1,6 @@
+Channel_ID,Channel_Name,Platform,Campaign_Type
+1,Social,Meta,Retargeting
+2,Paid Search,Google,Brand
+3,Direct,Direct,Direct
+4,Organic Search,Google,Organic
+5,Email,Email Platform,Newsletter
